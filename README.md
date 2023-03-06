@@ -4,4 +4,4 @@
 
 | Kyu   | Kata                                                                                |
 | ----- | ----------------------------------------------------------------------------------- |
-| 8 kyu | [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004/train/javascript) |
+| 8 kyu | [Multiply](https://github.com/id175490/codewars/blob/main/8%20kyu/Multiply.md) |
