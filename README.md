@@ -14,4 +14,8 @@
 | 08 | 8 kyu | [Opposite number](https://github.com/id175490/codewars/blob/main/8%20kyu/Opposite%20number.md) |
 | 09 | 8 kyu | [Even or Odd](https://github.com/id175490/codewars/blob/main/8%20kyu/Even%20or%20Odd.md) |
 | 10 | 8 kyu | [Remove First and Last Character](https://github.com/id175490/codewars/blob/main/8%20kyu/Remove%20First%20and%20Last%20Character.md) |
+| 11 | 8 kyu | [Convert boolean values to strings 'Yes' or 'No'](https://github.com/id175490/codewars/blob/main/8%20kyu/Convert%20boolean%20values%20to%20strings%20'Yes'%20or%20'No'.md) |
+| 12 | 8 kyu | [Return Negative](https://github.com/id175490/codewars/blob/main/8%20kyu/Return%20Negative.md) |
+| 13 | 8 kyu | [Reversed Strings](https://github.com/id175490/codewars/blob/main/8%20kyu/Reversed%20Strings.md) |
+
 
