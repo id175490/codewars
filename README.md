@@ -17,5 +17,7 @@
 | 11 | 8 kyu | [Convert boolean values to strings 'Yes' or 'No'](https://github.com/id175490/codewars/blob/main/8%20kyu/Convert%20boolean%20values%20to%20strings%20'Yes'%20or%20'No'.md) |
 | 12 | 8 kyu | [Return Negative](https://github.com/id175490/codewars/blob/main/8%20kyu/Return%20Negative.md) |
 | 13 | 8 kyu | [Reversed Strings](https://github.com/id175490/codewars/blob/main/8%20kyu/Reversed%20Strings.md) |
-
+| 14 | 8 kyu | [Type of sum](https://github.com/id175490/codewars/blob/main/8%20kyu/Type%20of%20sum.md) |
+| 15 | 8 kyu | [Simple multiplication](https://github.com/id175490/codewars/blob/main/8%20kyu/Simple%20multiplication.md) |
+| 16 | 8 kyu | [Third Angle of a Triangle](https://github.com/id175490/codewars/blob/main/8%20kyu/Third%20Angle%20of%20a%20Triangle.md) |
 
